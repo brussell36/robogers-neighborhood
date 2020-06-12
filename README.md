@@ -1,12 +1,34 @@
-# _{Application Name}_
+# _Mr. Roboger's Neighborhood_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Take input from user and output "Beeps", "Boops", and "Won't you be my neighbor?" 06/12/2020_
 
 #### By _**Ben Russell**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This application will take in a user input of a number and give them back a count up to that number with any numbers containing 1 replaced with "Beep!", numbers containing 2 replaced with "Boop!", and numbers containing 3 replaced with "Won't you be my neighbor?"._
+
+## Specifications
+
+##Behavior
+Take in a user input number and return a list counting up to that number.
+Input: 5
+Output: 0,1,2,3,4,5
+
+##Behavior
+Replace all numbers containing 1 with Beep!
+Input: 5
+Output: 0,"Beep!",2,3,4,5
+
+##Behavior
+Replace all numbers containing 2 with Boop!
+Input: 5
+Output: 0,"Beep!","Boop!",3,4,5
+
+##Behavior
+Replace all numbers containing 3 with Won't you be my neighbor?
+Input: 5
+Output: 0,"Beep!","Boop!","Won't you be my neighbor?",4,5
 
 ## Setup/Installation Requirements
 
