@@ -12,25 +12,25 @@ _This application will take in a user input of a number and give them back a cou
 
 ## Specifications
 
-##Behavior
-Take in a user input number and return a list counting up to that number.
-Input: 5
-Output: 0,1,2,3,4,5
+## Behavior
+* Take in a user input number and return a list counting up to that number.
+* Input: 5
+* Output: 0,1,2,3,4,5
 
-##Behavior
-Replace all numbers containing 1 with Beep!
-Input: 5
-Output: 0,"Beep!",2,3,4,5
+## Behavior
+* Replace all numbers containing 1 with Beep!
+* Input: 5
+* Output: 0,"Beep!",2,3,4,5
 
-##Behavior
-Replace all numbers containing 2 with Boop!
-Input: 5
-Output: 0,"Beep!","Boop!",3,4,5
+## Behavior
+* Replace all numbers containing 2 with Boop!
+* Input: 5
+* Output: 0,"Beep!","Boop!",3,4,5
 
-##Behavior
-Replace all numbers containing 3 with Won't you be my neighbor?
-Input: 5
-Output: 0,"Beep!","Boop!","Won't you be my neighbor?",4,5
+## Behavior
+* Replace all numbers containing 3 with Won't you be my neighbor?
+* Input: 5
+* Output: 0,"Beep!","Boop!","Won't you be my neighbor?",4,5
 
 ## Setup/Installation Requirements
 
