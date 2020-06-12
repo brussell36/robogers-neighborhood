@@ -10,19 +10,24 @@ $(document).ready(function() {
 
 // Business Logic
 function roboCount(number) {
-  const numberArray = []
-  for (i = 0; i <= number; i++) {
-    if (i.includes(3)) {
+  let numberArray = [];
+  for (let i = 0; i <= number; i++) {
+    if (i === 3 || i === 13 || i >= 30) {
       numberArray.push(" Won't you be my neighbor?")
     }
-    else if (i === 2) {
+    else if (i === 2 || i >= 20) {
       numberArray.push(" Boop!")
     }
-    else if (i === 1) {
+    else if (i === 1 || i >= 10) {
       numberArray.push(" Beep!")
     }
     else {
-      numberArray.push(" " + i);}
+      numberArray.push(" " + i)
+    }
   }
-  return result = numberArray;
+  return numberArray;
 }
+
+
+
+
