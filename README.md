@@ -48,7 +48,7 @@ Output: 0,"Beep!","Boop!","Won't you be my neighbor?",4,5
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known issues. Everything worked as I tested._
 
 ## Support and contact details
 
