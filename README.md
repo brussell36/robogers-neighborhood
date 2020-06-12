@@ -39,7 +39,7 @@ Output: 0,"Beep!","Boop!","Won't you be my neighbor?",4,5
 
 ### Open via Bash/Gitbash
 
-* _clone this repository onto your computer:_
+* _clone this repository onto your computer: https://github.com/brussell36/robogers-neighborhood.git_
 * _Navigate into the portfolio-page directory in VS Code or text editor of choice code ._
 * _Open index.html in your preffered browser_
 * _Feel free to edit anything you like and push them to your own repo_
@@ -56,10 +56,10 @@ _If you have any issues or questions and concerns, please contact me at benjamin
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
-*_Bootstrap_
-*_jQuery_
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _jQuery_
 
 ### License
 
