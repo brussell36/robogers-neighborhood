@@ -1,3 +1,5 @@
+![Waving robot](https://cliply.co/wp-content/uploads/2019/05/371905140_MEET_ROBOT_400px.gif)
+
 # _Mr. Roboger's Neighborhood_
 
 #### _Take input from user and output "Beeps", "Boops", and "Won't you be my neighbor?" 06/12/2020_
